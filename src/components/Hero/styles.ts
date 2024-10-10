@@ -20,7 +20,7 @@ export const EstiloHero = styled.form`
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #f9f5e7;
+    background-color: #a7727d;
     content: '';
     opacity: 0.7;
   }
@@ -33,7 +33,7 @@ export const EstiloHero = styled.form`
   h2 {
     font-family: Gloock, serif;
     font-size: 48px;
-    padding: 0 32px;
+    color: #f9f5e7;
 
     @media (max-width: 768px) {
       font-size: 32px;
